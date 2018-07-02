@@ -1,3 +1,4 @@
 client/node_modules
 client/app
+client/dist/*
 server/node_modules

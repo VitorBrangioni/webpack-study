@@ -2,6 +2,7 @@ import { NegociacaoController } from './controllers/NegociacaoController.js';
 import { Negociacao } from './domain/index.js';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
+import 'bootstrap/dist/js/bootstrap.js'
 import '../css/style.css';
 
 const controller = new NegociacaoController();
